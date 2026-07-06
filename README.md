@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-> Es ist das Klassische Spiel Tic Tac Toe....
+> Es ist das Klassische Spiel Tic Tac Toe. Es ist Multiplayer, also zwei Spieler spielen gegeneinander.
 
 ---
 
@@ -21,19 +21,14 @@
 ## 📝 Projektbeschreibung
 
 Beschreibe hier ausführlich:
-- **Ziel der Applikation:** Die Applikation dient nur für die Schule, um Java programieren zu lernen, aber ich habe das erste Mal mit Threads gearbeitet, was interessant war, da es einmal etwas anderes war, mit vordefinierten Methoden etc. 
+- **Ziel der Applikation:** Die Applikation dient nur für die Schule, um Java programieren zu lernen, aber es funktioniert wie klassisches Tik Tak Toe. Man gibt eine Zahl zwischen 1 und 9 ein, und wenn sie noch frei ist, wird das Feld mit deinem Zeichen belegt (X / O).
 
 ---
 
 ## 📸 Screenshot
 
 ![Screenshot der App](./Carwash1.png)
-![Screenshot der App](./Carwash2.png)
-![Screenshot der App](./Carwash3.png)
-![Screenshot der App](./Carwash4.png)
-![Screenshot der App](./Carwash5.png)
-![Screenshot der App](./Carwash6.png)
-![Screenshot der App](./Carwash7.png)
+
 
 <!-- So fügst du einen Screenshot ein:
      1. Screenshot erstellen und als "screenshot.png" im Projektordner speichern
