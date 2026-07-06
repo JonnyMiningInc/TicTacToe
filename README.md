@@ -27,7 +27,11 @@ Beschreibe hier ausführlich:
 
 ## 📸 Screenshot
 
-![Screenshot der App](./Carwash1.png)
+![Screenshot der App](./TicTacToe1.png)
+![Screenshot der App](./TicTacToe2.png)
+![Screenshot der App](./TicTacToe3.png)
+![Screenshot der App](./TicTacToe4.png)
+![Screenshot der App](./TicTacToe5.png)
 
 
 <!-- So fügst du einen Screenshot ein:
